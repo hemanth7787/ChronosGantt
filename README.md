@@ -2,6 +2,9 @@
 
 **ChronosGantt** is a lightweight, feature-rich, single-page Gantt chart project tracker built with vanilla JavaScript and Tailwind CSS. It requires **no build steps, backend servers, or external databases**—everything runs entirely in your browser.
 
+Visit [Live site]( https://hemanth7787.github.io/ChronosGantt/).
+
+
 ---
 
 ## ✨ Features
